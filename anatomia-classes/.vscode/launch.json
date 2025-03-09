@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BoletimEscolar",
+            "request": "launch",
+            "mainClass": "BoletimEscolar",
+            "projectName": "anatomia-classes_1f80feba"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

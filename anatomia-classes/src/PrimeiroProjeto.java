@@ -1,5 +1,7 @@
-public class concat {
+public class PrimeiroProjeto {
     public static void main(String[] args){
+
+        //concatenação
     
         String primeiroNome = "Maria";
         String segundoNome = "Eduarda";
