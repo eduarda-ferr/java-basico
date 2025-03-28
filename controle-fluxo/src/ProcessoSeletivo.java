@@ -85,6 +85,5 @@ public class ProcessoSeletivo {
         for(String candidato: candidatos){
             System.out.println("O candidato selecionado foi "+candidato);
         }
-    }
-    
+    } 
 }
